@@ -6,10 +6,6 @@
 
 I'm an indie developer trying to build my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
-   <p align="left">
-      <a href="https://www.instagram.com/jonathan.mouri/">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/
-
 ---
 
 ### 🧰 Languages and Tools
