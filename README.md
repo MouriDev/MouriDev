@@ -27,7 +27,7 @@ Currently, I'm a high school student in grade 12, deeply passionate about game d
 <!-- Top Langs at the top -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MouriDev&layout=compact)
 
-![Mouri's GitHub stats](https://github-readme-stats.vercel.app/api?username=MouriDev&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <!-- Uncomment if you want to add GitHub Streak Stats -->
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
