@@ -25,7 +25,8 @@ Currently, I'm a high school student in grade 12, deeply passionate about game d
 <br>
 
 <!-- Top Langs at the top -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MouriDev&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MouriDev&layout=compact&theme=dark)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MouriDev&show_icons=true&theme=transparent)
 
