@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Game Developer/Backend Developer)`**
 
-I'm an indie developer trying to build my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing to solving real life problems with code.
+I'm an indie developer trying to build my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing to solving real life problems with code
 
 Currently, I'm a high school student in grade 12, deeply passionate about game development. While I’ve primarily focused on backend development, I'm now expanding my skills into frontend development as well. Balancing both game development and web development, I'm eager to explore new challenges and continue growing as a developer.
 
